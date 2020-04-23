@@ -1,6 +1,6 @@
 using System;
 
-namespace WebUI
+namespace Application.WheaterForecasts.Queries.GetWheaterForecasts
 {
     public class WeatherForecast
     {
